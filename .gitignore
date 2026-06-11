@@ -1,0 +1,19 @@
+# Built artifacts
+/build/
+*.aar
+*.apk
+
+# Gradle
+.gradle/
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
